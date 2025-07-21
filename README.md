@@ -51,6 +51,7 @@ Built with Python, SQLAlchemy & SQLite. Tracks daily expenses and summarizes tot
 - GitHub: [steveofficial254](https://github.com/steveofficial254)
 - Email: **stephenmburu8509@gmail.com**
 - Portfolio: _(Coming soon!)_
+- LinkedIn: Stephen Mburu
 
 ---
 
