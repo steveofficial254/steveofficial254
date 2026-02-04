@@ -34,13 +34,14 @@ SQLAlchemy ORM
 
 Featured Projects
 Joyce Suites
-Hotel booking and management platform
-
+joyce-suites.vercel.app
+Apartment management platform
 Full-stack application for hotel room reservations and guest management
 Technologies: React, Vite, Tailwind CSS, Firebase
 Features: Real-time availability, booking system, responsive design
 
 Mealy - Meal Planning App
+https://group-2-mealy-project.onrender.com
 Collaborative meal planning and recipe management
 
 Group project for meal planning with recipe search and organization
