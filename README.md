@@ -1,59 +1,96 @@
-# 👋 Hi there, I'm Stephen Mburu
+Stephen Mburu
+Full-Stack Developer | Nairobi, Kenya
+Building scalable web applications with modern technologies
 
-I'm a passionate and self-driven **full-stack  developer** who loves building responsive, real-world applications using modern technologies. I enjoy combining design, logic, and code to create clean, scalable, and user-focused solutions.
+About Me
+Full-stack developer specializing in JavaScript and Python ecosystems. I build responsive, user-focused applications that solve real-world problems. My approach combines clean code practices, modern frameworks, and scalable architecture to deliver impactful solutions.
+Currently: Developing end-to-end web applications using React, Firebase, and Python
+Focus Areas: Full-stack development, RESTful APIs, database design, cloud integration
+Goal: Contributing to impactful open-source projects while growing as a software engineer
 
----
+ Technical Skills
+Frontend Development
 
-## 💼 About Me
+JavaScript (ES6+), HTML5, CSS3
+React, Vite
+Tailwind CSS, Bootstrap
+Responsive Design, UI/UX Implementation
 
-- 🔭 Currently working on: **Asili Shop** – a full-stack veggie delivery app (React + Firebase)
-- 🌱 I am specialised in **JavaScript**, **React**, **Python**, and **Firebase**
-- ⚡ Always improving my skills in full-stack development with real projects and challenges
-- 🧩 Exploring the power of **APIs**, **SQL**, and **cloud functions**
-- 🎯 Goal: To become a highly skilled software engineer and contribute to impactful open-source projects
+Backend Development
 
----
+Python (Flask, Django)
+Firebase (Authentication, Firestore, Cloud Functions)
+REST API Design & Integration
+Database Management (SQLite, PostgreSQL, Firestore)
 
-## 🛠️ Tech Stack
+Development Tools
 
-### 👨‍💻 Frontend
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap
-
-### ⚙️ Backend
-- **Python:** Flask, Django (beginner level)
-- **Databases:** Firestore, SQLite, PostgreSQL (learning)
-
-### 🧰 Other Tools
-- Git & GitHub
-- VS Code
-- Figma (for UI planning)
-- CLI (Bash / Linux basics)
+Git & GitHub (Version Control)
+VS Code
+Figma (UI Planning)
+Linux/Bash CLI
+SQLAlchemy ORM
 
 
----
+Featured Projects
+Joyce Suites
+Hotel booking and management platform
 
-## 📌 Featured Projects
+Full-stack application for hotel room reservations and guest management
+Technologies: React, Vite, Tailwind CSS, Firebase
+Features: Real-time availability, booking system, responsive design
 
-### 🛒 [Asili Shop](https://github.com/steveofficial254/Asili-Shop)
-A React + Firebase eCommerce web app for fresh veggies. Users can view products, add to cart, and log in using Firebase Auth.
+Mealy - Meal Planning App
+Collaborative meal planning and recipe management
 
-### 🌍 [Know The World](https://github.com/steveofficial254/Know-The-World-Project)
-A group project showing country info and travel planning features using REST APIs.
+Group project for meal planning with recipe search and organization
+Technologies: React, REST APIs, Python backend
+Features: Recipe discovery, meal scheduling, user authentication
 
-### 💰 [Personal Expense Tracker (CLI App)](https://github.com/steveofficial254/Expense-Tracker-CLI)
-Built with Python, SQLAlchemy & SQLite. Tracks daily expenses and summarizes totals from the command line.
+Asili Shop
+E-commerce platform for fresh produce delivery
 
----
+React + Firebase web application for vegetable marketplace
+Technologies: React, Firebase Auth, Firestore, Tailwind CSS
+Features: Product catalog, shopping cart, user authentication, real-time updates
 
-## 📫 Let's Connect
+Know The World
+Country information and travel planning application
 
-- GitHub: [steveofficial254](https://github.com/steveofficial254)
-- Email: **stephenmburu8509@gmail.com**
-- Portfolio: _(Coming soon!)_
-- LinkedIn: Stephen Mburu
+Interactive platform utilizing REST APIs for global country data
+Technologies: JavaScript, REST APIs, HTML/CSS
+Features: Country search, detailed information display, travel insights
 
----
+Expense Tracker CLI
+Command-line personal finance manager
+
+Python-based CLI tool for tracking and analyzing expenses
+Technologies: Python, SQLAlchemy, SQLite
+Features: Expense categorization, summary reports, data persistence
+
+
+ What I'm Currently Learning
+
+Advanced PostgreSQL and database optimization
+Firebase Cloud Functions and serverless architecture
+API security best practices
+Test-driven development (TDD)
+
+
+ Let's Collaborate
+I'm open to:
+
+Open-source contributions
+Freelance opportunities
+Junior/Mid-level developer positions
+Collaborative projects focused on social impact
+
+
+Get In Touch
+
+Email: stephenmburu8509@gmail.com
+GitHub: @steveofficial254
+LinkedIn: Stephen Mburu
 
 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
