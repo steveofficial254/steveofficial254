@@ -1,101 +1,186 @@
-Stephen Mburu
-Full-Stack AI Engineer · Nairobi, Kenya
-Building AI-powered products that ship to real users
- stephenmburu8509@gmail.com  ·  LinkedIn: Stephen Mburu  ·  Nairobi, Kenya
+<div align="center">
 
-I'm a self-driven full-stack engineer who builds things that actually reach users — not just demos. Over the past year I've shipped a live apartment management system, integrated M-Pesa payments into production, built AI-powered web apps, and consumed real-time APIs across multiple projects.
-I use Claude Code, Cursor, and GitHub Copilot as force multipliers — but I read and take full ownership of every line that ships. If I can't explain it, it doesn't go into production.
+# Stephen Mburu
 
-What I build with
-AI & Automation
-Anthropic Claude API · Prompt Engineering · Python Automation · Claude Code · Cursor · GitHub Copilot
-Backend
-Python · Flask · Node.js · Express.js · FastAPI (learning) · RESTful API Design · JWT · OAuth · Webhooks
-Frontend
-React · Vite · JavaScript ES6+ · Tailwind CSS · Context API · Responsive Design
-Databases
-PostgreSQL · SQLite · SQLAlchemy ORM · 
-DevOps & Tools
-Git · GitHub · CI/CD · Vercel · Linux/Bash · Agile
-Integrations
-M-Pesa API · CoinPaprika API · Third-party payment & data APIs
+**Full-Stack Software Engineer Nairobi, Kenya**
 
-Featured projects
-Joyce Suites — Live
+[stephenmburu8509@gmail.com](mailto:stephenmburu8509@gmail.com) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/stephen-mburu) &nbsp;&nbsp; [github.com/Steveofficial254](https://github.com/steveofficial254)
 
-Apartment management system · Flask · React · PostgreSQL · M-Pesa API · JWT
+</div>
 
-Production platform serving real tenants across three roles — Admin, Caretaker, and Tenant. Each role gets a scoped dashboard and permissions. M-Pesa integrated for real-time payment tracking with automated reconciliation. Reporting dashboards for occupancy, payments, and maintenance. Built solo from concept to deployment.
+---
 
-Multi-role JWT auth system with role-scoped dashboards
-M-Pesa payment integration with webhook reconciliation
-Real-time operational reporting
-Improved property management efficiency by ~40%
+## About Me
 
+I am a Full-Stack Software Engineer with experience building and deploying scalable web applications, RESTful APIs, and data-driven platforms across the entire stack from database design and backend logic to frontend interfaces and third-party integrations. I take projects from concept to live production and take full ownership of everything I ship.
 
-Mealy — Live
+Alongside my core engineering work, I integrate AI tools and the Anthropic Claude API into products where they add genuine value automating workflows, powering intelligent features, and improving operational efficiency. I use Claude Code, Cursor, and GitHub Copilot as development tools, and I maintain full understanding and responsibility for every line of code that ships.
 
-AI-powered restaurant management · React · Python · REST API
+```python
+stephen = {
+"location" : "Nairobi, Kenya ",
+"role" : "Full-Stack Software Engineer",
+"stack" : ["Python", "Flask", "React", "PostgreSQL", "Node.js"],
+"ai_tools" : ["Anthropic Claude API", "Claude Code", "Cursor", "GitHub Copilot"],
+"currently" : "Building AgriSync 360 AI agricultural intelligence platform",
+"open_to" : "Full-stack & AI engineering roles | Freelance | Collaboration",
+"contact" : "stephenmburu8509@gmail.com"
+}
+```
 
-Restaurant management platform with AI-driven menu recommendations and dynamic search at its core — not bolted on as a feature but built into how the product works. Led frontend development. Collaborated with a team using agile practices and code reviews.
+---
 
-AI-powered smart menu recommendations
-Dynamic search optimisation
-Modular React architecture with Context API
-Backend order tracking and inventory management
+## Technical Skills
 
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Crypto Challenge
+**Backend Development**
+Python Flask Django REST Framework Node.js Express.js FastAPI RESTful API Design JWT OAuth Webhooks API Security
 
-Real-time interactive game · JavaScript · CoinPaprika API · REST
+**Frontend Development**
+React JavaScript ES6+ Tailwind CSS Context API PWA Development Responsive Design HTML5 CSS3
 
-Web game that pulls live cryptocurrency data from the CoinPaprika API and challenges players to identify coins through progressive hints. Built with clean separation of API layer, game logic, and UI so each part can evolve independently.
+**Databases**
+PostgreSQL SQLite SQLAlchemy ORM Firebase Firestore Data Validation Field Mapping
 
-Live market data via CoinPaprika API
-Progressive multi-round hint engine
-Scoring with streak bonuses and time multipliers
-Competitive leaderboard with session history
+</td>
+<td valign="top" width="50%">
 
+**APIs & Integrations**
+M-Pesa Daraja API CoinPaprika API Third-party Payment & Data APIs Webhooks OAuth2 JSON
 
-Expense Tracker CLI
+**DevOps & Tools**
+Git GitHub CI/CD GitHub Actions Docker Azure Vercel Linux/Bash Agile
 
-Command-line finance tool · Python · SQLAlchemy · SQLite
+**AI & Automation**
+Anthropic Claude API Prompt Engineering Python Automation Claude Code Cursor GitHub Copilot Responsible AI Practices
 
-Full-featured terminal application for personal finance management. Designed for real daily use — not a tutorial project. Strict input validation, meaningful error messages, and thorough documentation throughout.
+</td>
+</tr>
+</table>
 
-Expense logging with categories, dates, and tags
-Smart filtering by date range, category, and amount
-Budget alerts when spending limits are approached
-Automated weekly/monthly summaries and CSV export
+---
 
+## Featured Projects
 
-Custom ORM System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built from scratch · Python · OOP · SQL
+### [Joyce Suites](https://joyce-suites.vercel.app) -- Live
+`Flask` `React` `PostgreSQL` `M-Pesa API` `JWT` `Webhooks` `Vercel`
 
-A full ORM implementation with no framework — built to understand what SQLAlchemy actually does under the hood. Models a multi-entity domain with complex relationships, cascading operations, and business logic methods.
+Full-stack apartment management system built and deployed independently from concept to live production. Serving 30+ active users.
 
-Many-to-many and one-to-many relationships
-Full CRUD with referential integrity
-Advanced query methods and aggregation
-Strict OOP: encapsulation, inheritance, polymorphism
+- Automated M-Pesa webhook payment tracking & reconciliation
+- Multi-role JWT auth (Admin, Caretaker, Tenant)
+- Real-time operational reporting dashboards
+- Automated tenant notifications
+- ~40% improvement in operational efficiency
 
+</td>
+<td width="50%" valign="top">
 
-Currently learning
+### AgriSync 360 -- In Development
+`Flask` `React` `Anthropic Claude API` `PostgreSQL` `CI/CD`
 
-Agentic AI frameworks — LangChain, MCP
-FastAPI and async Python backends
-Advanced PostgreSQL optimisation
-Test-driven development
+AI-powered agricultural intelligence platform for Kenyan smallholder farmers independently conceived, designed, and built.
 
+- Claude API for real-time agronomic recommendations
+- AI-assisted Community Messaging system
+- Greenhouse Automation module 14 feature areas
+- CI/CD pipeline with automated test suite & rollback procedures
 
-Open to
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-stack AI engineering roles — internship or junior level
-Freelance and contract projects
-Collaborative open-source work with real-world impact
+### Davis & Shirtliff -- Canteen System
+`React` `Tailwind CSS` `Django REST` `Azure` `Docker` `PWA`
 
+Hackathon project led UX/UI and frontend development within a three-person cross-functional team over two months.
+
+- Progressive Web App no installation required
+- Intelligent order restriction workflow (real-time availability logic)
+- Automated push notifications replacing manual announcements
+- QR code navigation system
+- Deployed on Azure with Docker, Nginx, Gunicorn
+
+</td>
+<td width="50%" valign="top">
+
+### Mealy -- AI Restaurant Management
+`React` `Python` `Anthropic Claude API` `REST API` `Context API`
+
+Collaborative team project. Led frontend development and integrated AI-driven features into core operational workflows.
+
+- Claude API-powered menu recommendation engine
+- AI-assisted dynamic search optimisation
+- Reusable prompt template library with human-review steps
+- Delivered via defined role ownership, API contracts & code review
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Personal Expense Tracker -- CLI
+`Python` `SQLAlchemy` `SQLite`
+
+Full-featured command-line financial management tool built for real daily use.
+
+- Automated weekly/monthly summaries with category breakdowns
+- Budget alert system on defined spending thresholds
+- Smart filtering by date, category, amount, and keyword
+- Automated CSV export for external analysis
+
+</td>
+<td width="50%" valign="top">
+
+### Custom ORM System
+`Python` `OOP` `SQL`
+
+Full ORM implementation built from scratch without a framework to understand database abstraction at a foundational level.
+
+- Many-to-many and one-to-many relationships
+- Full CRUD with referential integrity and cascading operations
+- Advanced query methods and business logic
+- Strict OOP: encapsulation, inheritance, polymorphism
+
+</td>
+</tr>
+</table>
+
+---
+
+## Education & Training
+
+| Qualification | Institution | Focus |
+|---|---|---|
+| Certificate in Software Engineering | Moringa School | Full-Stack Development RESTful APIs Database Management |
+| AI Automation Course | Moringa School | Python Automation AI Integration Workflow Automation |
+| Diploma in ICT | ICT Programme | Networking Database Management IT Infrastructure |
+
+---
+
+## Currently Building & Learning
+
+- **AgriSync 360** AI agricultural intelligence platform (active development)
+- **Agentic AI frameworks** LangChain, MCP
+- **Advanced PostgreSQL** optimisation and performance tuning
+- **Test-driven development** building robust, testable systems
+
+---
+
+## Get In Touch
 
 <div align="center">
-stephenmburu8509@gmail.com  ·  LinkedIn  ·  Nairobi, Kenya
-"The best code is code that ships."
+
+**Email:** stephenmburu8509@gmail.com &nbsp;&nbsp; **LinkedIn:** [Stephen Mburu](https://linkedin.com/in/stephen-mburu) &nbsp;&nbsp; **GitHub:** [steveofficial254](https://github.com/steveofficial254)
+
+**Open to:** Full-stack engineering roles AI & automation roles Freelance Collaboration
+
+</div>
